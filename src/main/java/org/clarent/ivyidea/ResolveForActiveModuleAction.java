@@ -75,4 +75,5 @@ public class ResolveForActiveModuleAction extends AbstractResolveAction {
         presentation.setEnabled(linkEnabled);
         presentation.setVisible(linkEnabled);
     }
+
 }
